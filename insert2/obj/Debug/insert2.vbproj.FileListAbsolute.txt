@@ -1,0 +1,8 @@
+E:\SEM - 5\505-ASP\Projects\insert2\insert2\bin\insert2.dll
+E:\SEM - 5\505-ASP\Projects\insert2\insert2\bin\insert2.pdb
+E:\SEM - 5\505-ASP\Projects\insert2\insert2\bin\insert2.xml
+E:\SEM - 5\505-ASP\Projects\insert2\insert2\obj\Debug\insert2.Resources.resources
+E:\SEM - 5\505-ASP\Projects\insert2\insert2\obj\Debug\insert2.vbproj.GenerateResource.Cache
+E:\SEM - 5\505-ASP\Projects\insert2\insert2\obj\Debug\insert2.dll
+E:\SEM - 5\505-ASP\Projects\insert2\insert2\obj\Debug\insert2.xml
+E:\SEM - 5\505-ASP\Projects\insert2\insert2\obj\Debug\insert2.pdb
